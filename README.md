@@ -5,7 +5,7 @@
 
 ## Environment Variables 
 
-### Load environment variables from file if exists
+### Load environment variables from file if file exists
 
 ```Makefile
 #!make
